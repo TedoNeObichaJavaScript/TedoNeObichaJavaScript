@@ -3,9 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tedoneobichajavascript&label=Profile%20views&color=0e75b6&style=flat" alt="tedoneobichajavascript" /> </p>
 
-- 🌱 I’m currently learning **JavaScript and React.js**
+- 🌱 I’m currently learning **JavaScript,React.js**
 
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/t.db3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="t.db3" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/txdo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="txdo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
