@@ -1,5 +1,5 @@
-<h1 align="center">Wazzup, I'm Txdo</h1>
-<h3 align="center">Frontend Development till i die ✍️</h3>
+<h1 align="center">Hawwo, I'm Txdo</h1>
+<h3 align="center">Full Stack Development till i die ✍️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tedoneobichajavascript&label=Profile%20views&color=0e75b6&style=flat" alt="tedoneobichajavascript" /> </p>
 
