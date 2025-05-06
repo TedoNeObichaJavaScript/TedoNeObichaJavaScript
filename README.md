@@ -5,6 +5,7 @@
   <img src="https://count.getloli.com/@Xdo?theme=rule34" alt="Moe Counter Profile Views" />
 </p>
 
+Currently working on Nooze(New-gen alarm app) which is my biggest project up to date!
 
 - 🌱 I’m currently learning **JavaScript,React.js**
 
