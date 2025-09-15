@@ -7,7 +7,7 @@
 
 Currently working on Nooze(New-gen alarm app) which is my biggest project up to date!
 
-- 🌱 I’m currently learning **JavaScript,React.js**
+- 🌱 I’m currently learning **JavaScript,React.js,Node.js,React Native**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
