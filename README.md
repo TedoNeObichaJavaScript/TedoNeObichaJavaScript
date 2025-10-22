@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [Nooze (my biggest project up to date)](https://github.com/Nooze-Alarm)
 
-- 🌱 I’m currently learning **nodejs, react, react native and java**
+- 🌱 I’m currently learning **Nodejs, React, React Native and Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/@t.db3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@t.db3" height="30" width="40" /></a>
+<a href="https://instagram.com/t.db3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@t.db3" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
