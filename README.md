@@ -144,10 +144,6 @@ user_input         = untrusted until proven otherwise
   <img src="https://streak-stats.demolab.com?user=TedoNeObichaJavaScript&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=666666&stroke=00FF41" alt="streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TedoNeObichaJavaScript&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff41&hide_border=true&custom_title=commit%20traffic%20%E2%80%94%20last%2030%20days" alt="activity graph" />
-</p>
-
 <!-- contribution snake — requires the snake.yml workflow in this repo -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/TedoNeObichaJavaScript/TedoNeObichaJavaScript/output/github-snake-dark.svg" alt="contribution snake" />
