@@ -38,34 +38,8 @@
 └──────────────────────────────────────────────────────────────┘
 ```
 
-<p align="center"><img src="assets/section-projects.svg" width="100%" alt="txdo@dev:~$ ps aux | grep -i active_projects" /></p>
-
-```text
-PID    PROJECT       STATUS      DESCRIPTION
-0001   snooze-city   BUILDING    game · role: Game Director · classified.
-0002   nooze         LIVE        no-snooze alarm · smart wake · gamified
-                                 wake-up challenges · smart-home control
-0003   kmp-port      R&D         taking Nooze cross-platform
-0004   mcp-tools     SIDE-OP     Node.js MCP servers for my own workflow
-```
-
 <p align="center"><img src="assets/project-snooze-city.svg" width="100%" alt="SNOOZE_CITY — classified — in active development" /></p>
 <p align="center"><sub>Org: <a href="https://github.com/Nooze-Alarm"><b>Nooze</b></a> · Live product: <a href="https://noozealarm.com"><b>noozealarm.com</b></a></sub></p>
-
-<p align="center"><img src="assets/section-opsec.svg" width="100%" alt="txdo@dev:~$ cat /etc/opsec.conf" /></p>
-
-```ini
-; how I ship — non-negotiable
-trust_the_client   = never          ; the server is the source of truth
-secrets_in_repo    = never          ; scanned before every push
-data_at_rest       = encrypted      ; always
-data_in_transit    = tls_only
-passwords          = hashed + salted, never plaintext
-access_control     = deny-by-default
-user_input         = untrusted until proven otherwise
-```
-
-<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
 <p align="center"><img src="assets/section-arsenal.svg" width="100%" alt="txdo@dev:~$ ls ./arsenal --sort=usage" /></p>
 
@@ -129,20 +103,6 @@ user_input         = untrusted until proven otherwise
   <img src="https://img.shields.io/badge/Figma-21262d?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
   <img src="https://img.shields.io/badge/Arduino-21262d?style=for-the-badge&logo=arduino&logoColor=00979D" alt="Arduino" />
   <img src="https://img.shields.io/badge/Claude-21262d?style=for-the-badge&logo=claude&logoColor=D97757" alt="Claude" />
-</p>
-
-<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
-
-<p align="center"><img src="assets/section-metrics.svg" width="100%" alt="txdo@dev:~$ tail -f /var/log/github.metrics" /></p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=TedoNeObichaJavaScript&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41" alt="github stats" />
-  <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TedoNeObichaJavaScript&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=8" alt="top languages" />
-</p>
-
-<!-- contribution snake — requires the snake.yml workflow in this repo -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TedoNeObichaJavaScript/TedoNeObichaJavaScript/output/github-snake-dark.svg" alt="contribution snake" />
 </p>
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
