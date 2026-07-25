@@ -136,8 +136,8 @@ user_input         = untrusted until proven otherwise
 <p align="center"><img src="assets/section-metrics.svg" width="100%" alt="txdo@dev:~$ tail -f /var/log/github.metrics" /></p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TedoNeObichaJavaScript&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41&include_all_commits=true&count_private=true" alt="github stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TedoNeObichaJavaScript&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=8" alt="top languages" />
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=TedoNeObichaJavaScript&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41" alt="github stats" />
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TedoNeObichaJavaScript&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=8" alt="top languages" />
 </p>
 
 <p align="center">
