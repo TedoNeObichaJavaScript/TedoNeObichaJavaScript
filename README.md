@@ -148,10 +148,6 @@ user_input         = untrusted until proven otherwise
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TedoNeObichaJavaScript&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff41&hide_border=true&custom_title=commit%20traffic%20%E2%80%94%20last%2030%20days" alt="activity graph" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TedoNeObichaJavaScript&theme=matrix&no-frame=true&no-bg=true&column=6&margin-w=8" alt="trophies" />
-</p>
-
 <!-- contribution snake — requires the snake.yml workflow in this repo -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/TedoNeObichaJavaScript/TedoNeObichaJavaScript/output/github-snake-dark.svg" alt="contribution snake" />
