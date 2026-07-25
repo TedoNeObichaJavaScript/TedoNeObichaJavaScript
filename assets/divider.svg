@@ -1,0 +1,13 @@
+<svg width="920" height="22" viewBox="0 0 920 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00ff41" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#00ff41" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#00ff41" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="10" width="920" height="1.5" fill="url(#fade)"/>
+  <circle cx="460" cy="10.75" r="3" fill="#00ff41">
+    <animate attributeName="opacity" values="1;0.25;1" dur="2.2s" repeatCount="indefinite"/>
+  </circle>
+</svg>
